@@ -1,5 +1,5 @@
 # 💫 About Me:
--> Studying MS Comp Sci. at the University of Bayreuth<br>-> Developing high-performance, scalable backend systems<br>-> Gold-Medalist in ICPC programming competitions
+-> Developing high-performance, scalable backend systems<br>-> Gold-Medalist in ICPC programming competitions
 
 
 ## 🌐 Socials:
